@@ -2,5 +2,5 @@ Archive documentation of a project in benchmarking parallel modular exponentiati
 
 Contributors:
 
-Mark Jeremy Cuizon
+Mark Jeremy Cuizon,
 Ken Chedrey Duculan
